@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\porti\\Desktop\\Projects\\Practice\\NET\\WebAPIProductos\\",
+  "WorkspaceRootPath": "C:\\Users\\porti\\Desktop\\Projects\\Practice\\NET\\WebProductos\\WebAPIProductos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0298F0B4-B96F-4459-AEE0-87614C71B6C0}|WebAPIProductos\\WebAPIProductos.csproj|c:\\users\\porti\\desktop\\projects\\practice\\net\\webapiproductos\\webapiproductos\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0298F0B4-B96F-4459-AEE0-87614C71B6C0}|WebAPIProductos\\WebAPIProductos.csproj|c:\\users\\porti\\desktop\\projects\\practice\\net\\webproductos\\webapiproductos\\webapiproductos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0298F0B4-B96F-4459-AEE0-87614C71B6C0}|WebAPIProductos\\WebAPIProductos.csproj|solutionrelative:webapiproductos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0298F0B4-B96F-4459-AEE0-87614C71B6C0}|WebAPIProductos\\WebAPIProductos.csproj|c:\\users\\porti\\desktop\\projects\\practice\\net\\webproductos\\webapiproductos\\webapiproductos\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0298F0B4-B96F-4459-AEE0-87614C71B6C0}|WebAPIProductos\\WebAPIProductos.csproj|solutionrelative:webapiproductos\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0298F0B4-B96F-4459-AEE0-87614C71B6C0}|WebAPIProductos\\WebAPIProductos.csproj|c:\\users\\porti\\desktop\\projects\\practice\\net\\webapiproductos\\webapiproductos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0298F0B4-B96F-4459-AEE0-87614C71B6C0}|WebAPIProductos\\WebAPIProductos.csproj|solutionrelative:webapiproductos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0298F0B4-B96F-4459-AEE0-87614C71B6C0}|WebAPIProductos\\WebAPIProductos.csproj|c:\\users\\porti\\desktop\\projects\\practice\\net\\webproductos\\webapiproductos\\webapiproductos\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0298F0B4-B96F-4459-AEE0-87614C71B6C0}|WebAPIProductos\\WebAPIProductos.csproj|solutionrelative:webapiproductos\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,28 +26,40 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\porti\\Desktop\\Projects\\Practice\\NET\\WebAPIProductos\\WebAPIProductos\\Program.cs",
-              "RelativeDocumentMoniker": "WebAPIProductos\\Program.cs",
-              "ToolTip": "C:\\Users\\porti\\Desktop\\Projects\\Practice\\NET\\WebAPIProductos\\WebAPIProductos\\Program.cs",
-              "RelativeToolTip": "WebAPIProductos\\Program.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T09:40:29.999Z"
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\porti\\Desktop\\Projects\\Practice\\NET\\WebProductos\\WebAPIProductos\\WebAPIProductos\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebAPIProductos\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\porti\\Desktop\\Projects\\Practice\\NET\\WebProductos\\WebAPIProductos\\WebAPIProductos\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebAPIProductos\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-29T20:40:26.841Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductoController.cs",
-              "DocumentMoniker": "C:\\Users\\porti\\Desktop\\Projects\\Practice\\NET\\WebAPIProductos\\WebAPIProductos\\Controllers\\ProductoController.cs",
-              "RelativeDocumentMoniker": "WebAPIProductos\\Controllers\\ProductoController.cs",
-              "ToolTip": "C:\\Users\\porti\\Desktop\\Projects\\Practice\\NET\\WebAPIProductos\\WebAPIProductos\\Controllers\\ProductoController.cs",
-              "RelativeToolTip": "WebAPIProductos\\Controllers\\ProductoController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAPAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\porti\\Desktop\\Projects\\Practice\\NET\\WebProductos\\WebAPIProductos\\WebAPIProductos\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPIProductos\\Program.cs",
+              "ToolTip": "C:\\Users\\porti\\Desktop\\Projects\\Practice\\NET\\WebProductos\\WebAPIProductos\\WebAPIProductos\\Program.cs",
+              "RelativeToolTip": "WebAPIProductos\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T09:31:33.234Z",
+              "WhenOpened": "2024-04-29T09:40:29.999Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\porti\\Desktop\\Projects\\Practice\\NET\\WebProductos\\WebAPIProductos\\WebAPIProductos\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "WebAPIProductos\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\porti\\Desktop\\Projects\\Practice\\NET\\WebProductos\\WebAPIProductos\\WebAPIProductos\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "WebAPIProductos\\Controllers\\ProductoController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAmwAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T09:31:33.234Z"
             }
           ]
         }

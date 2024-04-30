@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\porti\\Desktop\\Projects\\Practice\\NET\\WebAPIProductos\\WebAPIProductos\\WebAPIProductos.csproj": {}
+    "C:\\Users\\porti\\Desktop\\Projects\\Practice\\NET\\WebProductos\\WebAPIProductos\\WebAPIProductos\\WebAPIProductos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\porti\\Desktop\\Projects\\Practice\\NET\\WebAPIProductos\\WebAPIProductos\\WebAPIProductos.csproj": {
+    "C:\\Users\\porti\\Desktop\\Projects\\Practice\\NET\\WebProductos\\WebAPIProductos\\WebAPIProductos\\WebAPIProductos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\porti\\Desktop\\Projects\\Practice\\NET\\WebAPIProductos\\WebAPIProductos\\WebAPIProductos.csproj",
+        "projectUniqueName": "C:\\Users\\porti\\Desktop\\Projects\\Practice\\NET\\WebProductos\\WebAPIProductos\\WebAPIProductos\\WebAPIProductos.csproj",
         "projectName": "WebAPIProductos",
-        "projectPath": "C:\\Users\\porti\\Desktop\\Projects\\Practice\\NET\\WebAPIProductos\\WebAPIProductos\\WebAPIProductos.csproj",
+        "projectPath": "C:\\Users\\porti\\Desktop\\Projects\\Practice\\NET\\WebProductos\\WebAPIProductos\\WebAPIProductos\\WebAPIProductos.csproj",
         "packagesPath": "C:\\Users\\porti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\porti\\Desktop\\Projects\\Practice\\NET\\WebAPIProductos\\WebAPIProductos\\obj\\",
+        "outputPath": "C:\\Users\\porti\\Desktop\\Projects\\Practice\\NET\\WebProductos\\WebAPIProductos\\WebAPIProductos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\porti\\AppData\\Roaming\\NuGet\\NuGet.Config",

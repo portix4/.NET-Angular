@@ -4,8 +4,11 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using WebAPIProductos.Models;
 
+using Microsoft.AspNetCore.Cors;
+
 namespace WebAPIProductos.Controllers
 {
+    [EnableCors("Cors_Rules")]
     [Route("api")]
     [ApiController]
     public class ProductoController : ControllerBase

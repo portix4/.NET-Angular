@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jLptrhYpvin6a1Jy/GiZUi/P4jkiic/rRz6IZ94fv0Dwc41r4244G35fyhkjuP+pHYYQUv4EkIAlTW8AfSBQIg==",
+  "dgSpecHash": "4z8R5h9DTqXl+nSrS8W1yTJlx5JEF09+Tr9qR2exiknCHQN5GxbPvNoEAp2Wzxt58o5vOboaCGHrkOtQzd68Dw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\porti\\Desktop\\Projects\\Practice\\NET\\WebAPIProductos\\WebAPIProductos\\WebAPIProductos.csproj",
+  "projectFilePath": "C:\\Users\\porti\\Desktop\\Projects\\Practice\\NET\\WebProductos\\WebAPIProductos\\WebAPIProductos\\WebAPIProductos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\porti\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\porti\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

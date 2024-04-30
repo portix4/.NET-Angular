@@ -11,14 +11,21 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-#pragma warning disable CS8604 // Posible argumento de referencia nulo
 builder.Services.AddDbContext<DBAPIContext>(opt => opt.UseSqlServer(builder.Configuration.GetConnectionString("cadenaSQL")));
-#pragma warning restore CS8604 // Posible argumento de referencia nulo
 
 // para  controlar las referencias ciclicas de un json cuando llamas a la BBDD
 builder.Services.AddControllers().AddJsonOptions(opt =>
 {
     opt.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles;
+});
+
+var Cors_policies = "Cors_Rules";
+builder.Services.AddCors(e =>
+{
+    e.AddPolicy(name: Cors_policies, builder =>
+    {
+        builder.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod();
+    });
 });
 
 var app = builder.Build();
@@ -29,6 +36,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+app.UseCors(Cors_policies);
 
 app.UseAuthorization();
 
